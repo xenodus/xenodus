@@ -1,6 +1,6 @@
 **Hi there, I'm [Alvin](https://github.com/xenodus) 👋**
 
-I mostly dabble in backend development and DevOps. My public Git repositories mostly consists of my personal projects or ones that have been retired.
+I mostly dabble in backend development and DevOps. My public Git repositories consists of my personal projects or ones that have been retired.
 
 Not a Rockstar programmer. Just a mere individual that genuinely loves building stuff on the web since the 90s.
 
